@@ -1,10 +1,4 @@
-<h2 align="center">About  Me</h2>
 
-###
-
-<p align="center">Studying systems development <br> Focus on Java<br> Aiming for Continuous Improvement</p>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bilius10&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
