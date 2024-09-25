@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
+<h1 align="center">Hey there 👋</h1>
 
 ###
 
@@ -15,16 +13,6 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Bilius10.Bilius10&"  />
-</div>
-
-###
-
-<h1 align="center">Hey there 👋</h1>
 
 ###
 
@@ -57,12 +45,6 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Bilius10&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=false&disable_animations=true&theme=dracula&locale=en&hide_border=false&order=1" height="170" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bilius10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="151" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bilius10&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
