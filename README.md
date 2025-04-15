@@ -5,7 +5,7 @@
 <p align="left" style="background-color: yellow; color: black; padding: 5px; display: inline; border-radius: 3px;">Desenvolvedor Backend</p>
 
 
-<p align="left">Sou João Vitor, natural de Santa Catarina. Atualmente, curso Técnico em Análise e Desenvolvimento de Sistemas  no Senai e Engenharia de Software na Udesc. Sou uma pessoa focada e persistente, dedicando horas de estudo para me tornar um excelente professor na área. Acredito no poder das parcerias e do trabalho em equipe, valorizando a colaboração, o compartilhamento de conhecimento e a união de esforços para alcançar grandes resultados.</p>
+<p align="left">Sou João Vitor, natural de Santa Catarina. Atualmente, curso Técnico em Análise e Desenvolvimento de Sistemas  no Senai e Engenharia de Software na Udesc. Sou uma pessoa focada e persistente, dedicando horas de estudo para me tornar um excelente profissional na área. Acredito no poder das parcerias e do trabalho em equipe, valorizando a colaboração, o compartilhamento de conhecimento e a união de esforços para alcançar grandes resultados.</p>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/joão-vitor-a2868230a/" target="_blank">
