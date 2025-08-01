@@ -19,10 +19,6 @@
   <a href="https://bilius10.my.canva.site/joaovitoroliveira" target="_blank">
     <img src="https://img.shields.io/badge/Portf%C3%B3lio-9B4DFF?style=for-the-badge&logoColor=white" height="25" alt="Portfólio" />
 </a>
-
-  <a href="https://w.app/xdbste" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="WhatsApp logo" />
-  </a>
 </div>
 
 ###
