@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Discord logo" />
   </a>
 
-  <a href="https://bilius10.my.canva.site/joaovitoroliveira" target="_blank">
+  <a href="https://bilius10.github.io/Portifolio" target="_blank">
     <img src="https://img.shields.io/badge/Portf%C3%B3lio-9B4DFF?style=for-the-badge&logoColor=white" height="25" alt="Portfólio" />
 </a>
 </div>
