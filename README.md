@@ -1,63 +1,95 @@
-<h1 align="left">João Vitor Oliveira</h1>
+<!-- ===================================== -->
+<!--   GITHUB PROFILE - JOÃO VITOR         -->
+<!--   Username: Bilius10                  -->
+<!-- ===================================== -->
 
-###
+<!-- Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:F1C40F&height=180&section=header&text=João%20Vitor%20🚀&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=36"/>
 
-<p align="left" style="background-color: yellow; color: black; padding: 5px; display: inline; border-radius: 3px;">Desenvolvedor Backend</p>
+
+<p align="center">
+  <b>Backend Developer | Spring Boot | SQL | RabbitMQ | Java</b>
+</p>
+
+---
+
+### 👨‍💻 Sobre mim
+
+Sou **João Vitor**, desenvolvedor apaixonado por tecnologia e com formação tecnica em analise e desenvolvimento de sistemas.  
+Atuo como desenvolvedor backend, com foco em **APIs RESTful** desenvolvidas em **Java/Spring Boot** dentro de uma arquitetura de microsserviços, garantindo integração, desempenho e qualidade no código.  
+Tenho prazer em criar APIs, sistemas de autenticação e projetos com **boas práticas de código**, **integrações assíncronas** e **uso eficiente do SQL**.
+
+---
+
+### ⚙️ Tecnologias e Ferramentas
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-<p align="left">Sou João Vitor, natural de Santa Catarina. Atualmente, curso Técnico em Análise e Desenvolvimento de Sistemas  no Senai e Engenharia de Software na Udesc. Sou uma pessoa focada e persistente, dedicando horas de estudo para me tornar um excelente profissional na área. Acredito no poder das parcerias e do trabalho em equipe, valorizando a colaboração, o compartilhamento de conhecimento e a união de esforços para alcançar grandes resultados.</p>
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/joão-vitor-a2868230a/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
-  </a>
-
-  <a href="https://discord.com/channels/@Bilius10" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Discord logo" />
-  </a>
-
-  <a href="https://bilius10.github.io/Portifolio" target="_blank">
-    <img src="https://img.shields.io/badge/Portf%C3%B3lio-9B4DFF?style=for-the-badge&logoColor=white" height="25" alt="Portfólio" />
-</a>
 </div>
 
-###
+---
 
-<p align="left">➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖</p>
+### 🚀 Projetos em Destaque
 
-###
+> Alguns dos meus principais projetos — cada um focado em performance, organização e boas práticas de desenvolvimento.
 
-<h4 align="left">🤖Linguagens e Tecnologias</h4>
+#### 🔒 [**Symple Door**](https://github.com/Bilius10/Symple-Door)
+> Sistema de autenticação e controle de acesso desenvolvido em **Java + Spring Boot**, com foco em segurança e arquitetura limpa.
 
-###
+#### 💰 [**Symple Wallet**](https://github.com/Bilius10/Symple-Wallet)
+> Aplicação de **gestão financeira pessoal**, integrando transações e controle de saldo com **Spring Boot + SQL**.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="40" alt="RabbitMQ logo" />
+#### 📍 [**Simply Point**](https://github.com/Bilius10/SimplyPoint)
+> Projeto de **gerenciamento de pontos** para colaboradores, com endpoints REST e persistência eficiente em banco de dados.
+
+#### 🚴 [**API Simple Bike**](https://github.com/Bilius10/api-simple-bike)
+> API REST para gestão de **bicicletas e usuários**, aplicando conceitos de **DTOs, validação e boas práticas RESTful**.
+
+#### 🚚 [**API Logi Track**](https://github.com/Bilius10/api-Logi-Track)
+> Sistema de rastreamento logístico com **Spring Boot** e **RabbitMQ**, integrando filas e mensageria para comunicação assíncrona entre serviços.
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Bilius10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bilius10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
+![Streak](https://streak-stats.demolab.com/?user=Bilius10&theme=tokyonight&hide_border=true&background=0d1117)
+
 </div>
 
-###
+---
 
-<h4 align="left">📊Estatísticas</h4>
+### 🌍 Conecte-se comigo
 
-###
+<div align="center">
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bilius10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bilius10&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bilius10)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+
+
 </div>
 
-###
+---
+
+### 🧩 Curiosidades
+
+- ⚡ Tenho interesse crescente por **microserviços**, **mensageria** e **integrações entre sistemas**
+- 🧠 Gosto de aprender **arquiteturas modernas** e explorar padrões de projeto
+- 🛠️ Busco sempre manter o **código limpo e modular**, com foco em legibilidade
+- 🎯 “Simplicidade e clareza são as melhores formas de se destacar como desenvolvedor.”
+
+---
+
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F1C40F,100:0d1117&height=120&section=footer"/>
+
