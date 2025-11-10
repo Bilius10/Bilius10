@@ -30,7 +30,8 @@ Tenho prazer em criar APIs, sistemas de autenticação e projetos com **boas pr�
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+![Mockito](https://img.shields.io/badge/Mockito-343434?style=for-the-badge&logo=mockito&logoColor=white)
+![JUnit 5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
 </div>
 
